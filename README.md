@@ -1,2 +1,2 @@
-# RNN_playground
-Demonstration at lab get-together (05/03/2024)
+# Playing around with RNNs & constraints
+Practical session for lab meeting @ Madingley Hall, 5th March 2024
